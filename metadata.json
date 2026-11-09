@@ -1,0 +1,6 @@
+{
+  "name": "VisRAG Studio - ColPali Multi-Vector Enterprise Platform",
+  "description": "Research-grade VisRAG & ColPali multi-vector late interaction retrieval and multimodal grounded generation platform with LightRAG entity graph augmentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
